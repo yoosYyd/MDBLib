@@ -27,6 +27,7 @@ Example of use:
 
 where is:
 bool Set*(register address,data value,optional parametr:"slave" address); return true if operation success 
+
 bool Get*(register address,data value,optional parametr:"slave" address); return true if operation success
 
 4.Retrieving errors buffer
