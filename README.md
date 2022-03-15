@@ -1,6 +1,7 @@
 # MDBLib
 Modbus RTU/TCP Library(.NET5)
 Fully implemented and debugged next functions: 3,6,16.USE at own risk and responsibility.
+
 Example of use:
 1.Init TCP variant
 >Commutation comms = new Commutation("127.0.0.1", 502, 500);
